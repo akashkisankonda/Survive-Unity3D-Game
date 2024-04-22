@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - EnemyWall
+  - Enemy
+  - Spell
+  - Ground
+  - Ball
+  - HealthSpell
+  - SpeedSpell
+  - DamageResistenseSpell
+  - SlowMotionSpell
+  - BallExplosion
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Enemy
+  - Ground
+  - Ball
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2373279765
+    locked: 0
+  - name: Objects
+    uniqueID: 17847871
+    locked: 0
+  - name: Ground
+    uniqueID: 327309621
+    locked: 0
+  - name: Enemies
+    uniqueID: 149777403
+    locked: 0
+  - name: Player
+    uniqueID: 2574268249
+    locked: 0
+  - name: MagicSpell
+    uniqueID: 3994743765
+    locked: 0
+  - name: MagicGotEffect
+    uniqueID: 981885251
+    locked: 0
+  - name: Explosion
+    uniqueID: 2187048781
+    locked: 0
+  - name: Cannon
+    uniqueID: 1498133975
+    locked: 0
+  - name: Smoke
+    uniqueID: 3592347537
+    locked: 0
+  - name: Nuke
+    uniqueID: 1628202629
+    locked: 0
+  - name: Plane
+    uniqueID: 3968824299
+    locked: 0
+  - name: SpellOnPlayer
+    uniqueID: 447479579
+    locked: 0
